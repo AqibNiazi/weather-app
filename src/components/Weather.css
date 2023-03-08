@@ -1,0 +1,41 @@
+.backgroundImage {
+    background: url("https://images.unsplash.com/photo-1487621167305-5d248087c724?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80");
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+  }
+  .weatherResultBox {
+    margin: auto;
+    min-height: 130px;
+    max-height: 630px;
+    width: 500px;
+  }
+  .weatherIcon {
+    margin-top: 1rem;
+    width: 100px;
+    height: 100px;
+  }
+  .weathorCity {
+    font-size: 35px;
+  }
+  .weathorTemp {
+    font-size: 55px;
+    font-weight: 700;
+  }
+  .Bold {
+    font-weight: 700;
+  }
+  .normaltxt {
+    font-weight: 500;
+  }
+  .b-width {
+    width: 100px;
+  }
+  .text-color {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  
